@@ -255,7 +255,11 @@ ul.social-icons {
 .c {width: 70%; background-color: #004d99;}
 .bs {width: 60%; background-color: #0066cc;}
 .jq {width: 50%; background-color: #0080ff;}
-.bash {width: 20%; background-color: #3399ff;}
+.ap {width: 50%; background-color: #0080ff;}
+.node {width: 40%; background-color: #3399ff;}
+.andy {width: 40%; background-color: #3399ff;}
+.bash {width: 20%; background-color: #66b3ff;}
+
 p
 {
   text-align: justify;
